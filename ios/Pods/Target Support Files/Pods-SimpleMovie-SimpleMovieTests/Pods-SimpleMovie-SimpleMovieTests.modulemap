@@ -1,0 +1,6 @@
+module Pods_SimpleMovie_SimpleMovieTests {
+  umbrella header "Pods-SimpleMovie-SimpleMovieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
